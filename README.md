@@ -23,7 +23,7 @@ git clone https://github.com/psalmfill/nestjs-typeorm-task.git
 Navigate into the project directory:
 
 ```bash
-cd your-repository
+cd nestjs-typeorm-task 
 ```
 
 ### Install dependencies using npm:
